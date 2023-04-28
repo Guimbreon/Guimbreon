@@ -8,6 +8,10 @@ I'm a student at ESTB studying Bioinformatics. I'm passionate about programming,
 <img src="https://img.icons8.com/color/24/000000/sql.png"/> SQL  
 <img src="https://img.icons8.com/color/24/000000/r.png"/> R  
 
+## Databases
+<img src="https://img.icons8.com/color/24/000000/mysql.png"/> MySQL  
+<img src="https://img.icons8.com/color/24/000000/microsoft-sql-server.png"/> SSMS  
+
 ## Version Control
 <img src="https://img.icons8.com/color/24/000000/git.png"/> Git
 
