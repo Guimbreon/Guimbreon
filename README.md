@@ -21,7 +21,7 @@ Here are a few projects I've worked on:
 * [Python_SQL](https://github.com/Guimbreon/Python_SQL): This repository contains a collection of Python projects that use SQL or mySQL for data storage and management.
 
 ## Contact Me
-You can reach out to me via email at [your-email](available-soon) or connect with me on [LinkedIn](https://www.linkedin.com/in/guilherme-soares-5918701b0/).
+You can reach out to me via email at [my-email](available-soon) or connect with me on [LinkedIn](https://www.linkedin.com/in/guilherme-soares-5918701b0/).
 
 ## Fun Fact
 I'm getting deeper into Python and starting with Cybersecurity!
