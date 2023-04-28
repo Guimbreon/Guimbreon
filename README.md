@@ -16,13 +16,12 @@ I'm a student at ESTB studying Bioinformatics. I'm passionate about programming,
 
 ## Projects
 Here are a few projects I've worked on:
-* [Project 1](link-to-project): Short description of the project
-* [Project 2](link-to-project): Short description of the project
-* [Project 3](link-to-project): Short description of the project
+* [Encripting](https://github.com/Guimbreon/Python/tree/master/Encripting): Program to encript and decript text files.
+* [MetaData](https://github.com/Guimbreon/Python/tree/master/MetaData): Get all the information out of a picture!
+* [Python_SQL](https://github.com/Guimbreon/Python_SQL): This repository contains a collection of Python projects that use SQL or mySQL for data storage and management.
 
 ## Contact Me
-You can reach out to me via email at [your-email](mailto:your-email) or connect with me on [LinkedIn](link-to-your-linkedin-profile).
+You can reach out to me via email at [your-email](available-soon) or connect with me on [LinkedIn](https://www.linkedin.com/in/guilherme-soares-5918701b0/).
 
 ## Fun Fact
-Add a fun fact about yourself here!
-
+I'm getting deeper into Python and starting with Cybersecurity!
