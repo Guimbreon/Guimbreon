@@ -3,16 +3,16 @@
 ## About Me
 I'm a student at ESTB studying Bioinformatics. I'm passionate about programming, specially Back-end and Cybersecurity.
 
-## Programming Skills
-* Python
-* SQL
-* R
+## Skills
+<img src="https://img.icons8.com/color/24/000000/python.png"/> Python  
+<img src="https://img.icons8.com/color/24/000000/sql.png"/> SQL  
+<img src="https://img.icons8.com/color/24/000000/r.png"/> R  
 
 ## Version Control
-* Git
+<img src="https://img.icons8.com/color/24/000000/git.png"/> Git
 
 ## Tools
-* VSCode
+<img src="https://img.icons8.com/color/24/000000/visual-studio-code-2019.png"/> VSCode
 
 ## Projects
 Here are a few projects I've worked on:
