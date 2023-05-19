@@ -3,11 +3,15 @@
 ## About Me
 I'm a student at ESTB studying Bioinformatics. I'm passionate about programming, specially Back-end and Cybersecurity.
 
-## Programming Skills
+## Programming Skills [![wakatime](https://wakatime.com/badge/user/7a1fe54a-81de-4fea-8471-e5bb2a899414.svg)](https://wakatime.com/@7a1fe54a-81de-4fea-8471-e5bb2a899414)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimbreon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -27,8 +31,9 @@ Here are a few projects I've worked on:
 * [Python_SQL](https://github.com/Guimbreon/Python_SQL): This repository contains a collection of Python projects that use SQL or mySQL for data storage and management.
 
 ## Contact Me
-You can reach out to me via email at [my-email](available-soon) or connect with me on [LinkedIn](https://www.linkedin.com/in/guilherme-soares-5918701b0/).
+You can reach out to me via email at [my-email](available-soon) or connect with me on [LinkedIn](https://www.linkedin.com/in/GuilhermeSoares26/).
 
 ## Fun Fact
 I'm getting deeper into Python and starting with Cybersecurity!
+
 
