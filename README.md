@@ -21,6 +21,7 @@ I'm a student at ESTB studying Bioinformatics. I'm passionate about programming,
 ## Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![Intel J IDEA](https://img.shields.io/badge/Intel%20J%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## Projects
 Here are a few projects I've worked on:
