@@ -27,7 +27,7 @@ I'm a student at ESTB studying Bioinformatics. I'm passionate about programming,
 Here are a few projects I've worked on:
 * [Encripting](https://github.com/Guimbreon/Python/tree/master/Encripting): Program to encript and decript text files.
 * [MetaData](https://github.com/Guimbreon/Python/tree/master/MetaData): Get all the information out of a picture!
-* [Python-SQL](https://github.com/Guimbreon/Python_SQL): This repository contains a collection of Python projects that use SQL or mySQL for data storage and management.
+* [Python-SQL](https://github.com/guimbreon/Python/tree/master/Python-SQL): This repository contains a collection of Python projects that use SQL or mySQL for data storage and management.
 * [IMDB Analyzer](https://github.com/guimbreon/IMDB_Analyzer): This Java project enables IMDB account 
 holders to analyze their movie ratings data, calculating statistics.
 ## Contact Me
