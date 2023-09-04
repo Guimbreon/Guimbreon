@@ -30,8 +30,6 @@ Here are a few projects I've worked on:
 * [Python-SQL](https://github.com/guimbreon/Python/tree/master/Python-SQL): This repository contains a collection of Python projects that use SQL or mySQL for data storage and management.
 * [IMDB Analyzer](https://github.com/guimbreon/IMDB_Analyzer): This Java project enables IMDB account 
 holders to analyze their movie ratings data, calculating statistics.
-## Contact Me
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/GuilhermeSoares26/).
 
 ## Fun Fact
 I'm getting deeper into Python and starting with Cybersecurity!
