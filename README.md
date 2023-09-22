@@ -1,7 +1,7 @@
 # Hello, I'm Guimbreon 👋
 
 ## About Me
-I'm a student at ESTB studying Bioinformatics. I'm passionate about programming, specially Back-end and Cybersecurity.
+I'm a student at FCUL studying Information Technology. I'm passionate about programming, specially Back-end and Cybersecurity.
 
 ## Programming Skills [![wakatime](https://wakatime.com/badge/user/7a1fe54a-81de-4fea-8471-e5bb2a899414.svg)](https://wakatime.com/@7a1fe54a-81de-4fea-8471-e5bb2a899414)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
