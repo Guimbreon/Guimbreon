@@ -25,7 +25,7 @@ I'm a student at FCUL studying Information Technology. I'm passionate about prog
 
 ## Projects
 Here are a few projects I've worked on:
-* [Encripting](https://github.com/Guimbreon/Python/tree/master/Encripting): Program to encript and decript text files.
+* [Encripting](https://github.com/ThreatForge/Cripter): Program to encript and decript text files.
 * [MetaData](https://github.com/Guimbreon/Python/tree/master/MetaData): Get all the information out of a picture!
 * [Python-SQL](https://github.com/guimbreon/Python/tree/master/Python-SQL): This repository contains a collection of Python projects that use SQL or mySQL for data storage and management.
 * [IMDB Analyzer](https://github.com/guimbreon/IMDB_Analyzer): This Java project enables IMDB account 
