@@ -3,7 +3,7 @@
 ## About Me
 I'm a student at FCUL studying Information Technology. I'm passionate about programming, specially Back-end.
 
-## Programming Skills [![wakatime](https://wakatime.com/badge/user/7a1fe54a-81de-4fea-8471-e5bb2a899414.svg)](https://wakatime.com/@7a1fe54a-81de-4fea-8471-e5bb2a899414)
+## Programming Skills [![wakatime](https://wakatime.com/badge/user/7a1fe54a-81de-4fea-8471-e5bb2a899414.svg)](https://wakatime.com/@ThZedDev)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
