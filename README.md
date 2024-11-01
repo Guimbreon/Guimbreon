@@ -33,3 +33,5 @@ holders to analyze their movie ratings data, calculating statistics.
 
 ## Fun Fact
 I'm getting deeper into Java.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guimbreon&label=Profile%20views&color=0e75b6&style=flat" alt="guimbreon" /> </p>
